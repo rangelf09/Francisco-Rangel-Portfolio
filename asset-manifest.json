@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/rangelf09/Francisco-Rangel-Portfolio/static/css/main.1341aae1.chunk.css",
+    "main.js": "/rangelf09/Francisco-Rangel-Portfolio/static/js/main.49d22c54.chunk.js",
+    "main.js.map": "/rangelf09/Francisco-Rangel-Portfolio/static/js/main.49d22c54.chunk.js.map",
+    "runtime-main.js": "/rangelf09/Francisco-Rangel-Portfolio/static/js/runtime-main.689e124e.js",
+    "runtime-main.js.map": "/rangelf09/Francisco-Rangel-Portfolio/static/js/runtime-main.689e124e.js.map",
+    "static/css/2.560b9325.chunk.css": "/rangelf09/Francisco-Rangel-Portfolio/static/css/2.560b9325.chunk.css",
+    "static/js/2.932870ba.chunk.js": "/rangelf09/Francisco-Rangel-Portfolio/static/js/2.932870ba.chunk.js",
+    "static/js/2.932870ba.chunk.js.map": "/rangelf09/Francisco-Rangel-Portfolio/static/js/2.932870ba.chunk.js.map",
+    "index.html": "/rangelf09/Francisco-Rangel-Portfolio/index.html",
+    "precache-manifest.8da3becdff09c67eeaa14ca58be41ba2.js": "/rangelf09/Francisco-Rangel-Portfolio/precache-manifest.8da3becdff09c67eeaa14ca58be41ba2.js",
+    "service-worker.js": "/rangelf09/Francisco-Rangel-Portfolio/service-worker.js",
+    "static/css/2.560b9325.chunk.css.map": "/rangelf09/Francisco-Rangel-Portfolio/static/css/2.560b9325.chunk.css.map",
+    "static/css/main.1341aae1.chunk.css.map": "/rangelf09/Francisco-Rangel-Portfolio/static/css/main.1341aae1.chunk.css.map",
+    "static/js/2.932870ba.chunk.js.LICENSE.txt": "/rangelf09/Francisco-Rangel-Portfolio/static/js/2.932870ba.chunk.js.LICENSE.txt",
+    "static/media/Self.png": "/rangelf09/Francisco-Rangel-Portfolio/static/media/Self.e259280d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.689e124e.js",
+    "static/css/2.560b9325.chunk.css",
+    "static/js/2.932870ba.chunk.js",
+    "static/css/main.1341aae1.chunk.css",
+    "static/js/main.49d22c54.chunk.js"
+  ]
+}
