@@ -4,7 +4,9 @@ import HomeOutline from "../HomeOutline"
 function Home() {
     return (
         <div>
+
             <HomeOutline />
+            
         </div>
     );
 }

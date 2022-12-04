@@ -1,14 +1,16 @@
 import React from 'react';
+import Self from '../assests/Self.png';
 
 function HomeOutline() {
     return (
 
         <div className='row row-home'>
+           
             <div className='col-4'>
 
                 <div className='card card-home'>
                     <div className='card-body'>
-                        <img src='' alt='profile-photo' className='ome-profile-photo mb-3'></img>
+                        <img src={Self} alt='profile' className='ome-profile-photo mb-3'></img>
                         <h5>Full Stack Developer</h5>
                         <p className='card-text text-center'>Developing applications and offering variety profesional support.</p>
                         <a href="https://github.com/rangelf09" className='ml-5'>Github</a>
