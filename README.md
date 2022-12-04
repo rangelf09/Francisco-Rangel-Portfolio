@@ -8,8 +8,8 @@ This application is my personal protfolio. This portfolio displays pas projects 
 
 # Application
 
-[Portfolio]
+[Portfolio](https://rangelf09.github.io/Francisco-Rangel-Portfolio/)
 
 # Github
 
-[Github]
+[Github](https://github.com/rangelf09/Francisco-Rangel-Portfolio)
