@@ -9,4 +9,4 @@ function About() {
     );
 }
 
-export default AboutOutline;
+export default About;
