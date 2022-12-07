@@ -46,6 +46,12 @@ function Portfolio() {
             location={projects[4].location}
           />
 
+          <PortfolioOutline
+            name={projects[5].name}
+            project={projects[5].project}
+            location={projects[5].location}
+          />
+
         </div>
       </div>
 
